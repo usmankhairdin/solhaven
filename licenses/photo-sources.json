@@ -1,0 +1,12 @@
+[
+  {
+    "file": "assets/img/solar-rooftops.webp",
+    "author": "Vivint Solar",
+    "sourcePage": "https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-_ciUqT1HEuY",
+    "retrievalUrl": "https://images.unsplash.com/flagged/photo-1566838616838-c3a720672aad?auto=format&fit=crop&w=2200&q=85&fm=webp",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-10-26",
+    "inspection": "Inspected with view_image before use. Buildings, roof arrays and sky; no people visible.",
+    "usage": "Illustrative residential rooftop panorama, not a claimed client installation. CSS crops the image without modifying the source asset."
+  }
+]
